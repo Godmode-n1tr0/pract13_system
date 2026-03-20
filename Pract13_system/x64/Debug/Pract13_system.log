@@ -1,0 +1,8 @@
+﻿  Pract13_system.cpp
+C:\Users\st310-07\Documents\Shengals2\Pract13_system\Pract13_system.cpp(74,22): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+C:\Users\st310-07\Documents\Shengals2\Pract13_system\Pract13_system.cpp(104,37): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\st310-07\Documents\Shengals2\Pract13_system\Pract13_system.cpp(104,37): warning C4267:         with
+C:\Users\st310-07\Documents\Shengals2\Pract13_system\Pract13_system.cpp(104,37): warning C4267:         [
+C:\Users\st310-07\Documents\Shengals2\Pract13_system\Pract13_system.cpp(104,37): warning C4267:             _Ty=int
+C:\Users\st310-07\Documents\Shengals2\Pract13_system\Pract13_system.cpp(104,37): warning C4267:         ]
+  Pract13_system.vcxproj -> C:\Users\st310-07\Documents\Shengals2\Pract13_system\x64\Debug\Pract13_system.exe
